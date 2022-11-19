@@ -12,5 +12,5 @@ Alternatively, you can manually add the library to your `platformio.ini` file, f
 
 ```ini
 [env:esp32doit-devkit-v1]
-LucaCiucci/json_lite @ ^0.0.0
+luca-ciucci/json_lite @ ^0.0.0
 ```
