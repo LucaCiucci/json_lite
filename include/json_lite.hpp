@@ -115,6 +115,8 @@ namespace json_lite
 		// the type of the null value
 		using null_value_t = json_null_value_t;
 
+		using string = std::string;
+
 		// ================
 		//  Utility types
 		// ================
