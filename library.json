@@ -1,0 +1,23 @@
+{
+    "name": "json_lite",
+    "version": "0.0.0",
+    "description": "A simple and lightweight json library",
+    "keywords": "json",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LucaCiucci/json_lite.git"
+    },
+    "authors": [
+        {
+            "name": "Luca Ciucci",
+            "email": "luca.ciucci99@gmail.com",
+            "url": "https://github.com/LucaCiucci",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/LucaCiucci/json_lite/README.md",
+    "dependencies": {},
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+}
